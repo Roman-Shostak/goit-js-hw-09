@@ -1,5 +1,2 @@
-// Тут пиши JavaScript свого домашнього завдання.
-// Додаткові модулі створюй поруч у src/ і імпортуй їх сюди:
-//   import { something } from './something.js';
-
-console.log('Шаблон готовий. Можна писати код 🚀');
+import 'normalize.css';
+import './css/styles.css';
